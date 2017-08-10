@@ -1,0 +1,21 @@
+{
+  "name": "fcc-rhp-microservice",
+  "version": "1.0.0",
+  "description": "FCC Request Header Parser Microservice",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "keywords": [
+    "fcc",
+    "Request",
+    "Header",
+    "Parser",
+    "Microservice",
+    "node.js"
+  ],
+  "author": "koder12",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
